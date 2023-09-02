@@ -14,9 +14,9 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like anime, yet havent seen any entirely
 
-a little description of myself:
-I'm currently on a journey to enhance my engineering skills while maintaining an insatiable appetite for learning and creativity in the realm of software development. My passion for programming languages, mathematics, and physics propels me to embrace challenges and seize opportunities in the tech world. Beyond my career as a software engineer, I'm fervently dedicated to exploring knowledge in various domains. Whether it's savoring the melodies of pop music, venturing into uncharted territories with various apps, or delving into different topics, I'm always ready for new experiences. With my goals still in the process of definition, I approach life with a curious and open mind, eagerly anticipating the thrilling adventures and boundless possibilities that await.
+#a little description of myself:
+-I'm currently on a journey to enhance my engineering skills while maintaining an insatiable appetite for learning and creativity in the realm of software development. My passion for programming languages, mathematics, and physics propels me to embrace challenges and seize opportunities in the tech world. Beyond my career as a software engineer, I'm fervently dedicated to exploring knowledge in various domains. Whether it's savoring the melodies of pop music, venturing into uncharted territories with various apps, or delving into different topics, I'm always ready for new experiences. With my goals still in the process of definition, I approach life with a curious and open mind, eagerly anticipating the thrilling adventures and boundless possibilities that await.
 
 # Miguel Angel Santos Gutierrez♋
-### future system engeneer, developing his knoledge about many progamation languages, currently studing 
+### future software engeneer, currently studying 
 
